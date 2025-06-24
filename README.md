@@ -11,6 +11,14 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **nethmithinara@gmail.com**
+  
+
+[![Nethmi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nth287&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Nethmi's github stats](https://github-readme-stats.vercel.app/api?username=nth287&show_icons=true&theme=tokyonight) | ![Nethmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nth287&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nth287&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nth287&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
